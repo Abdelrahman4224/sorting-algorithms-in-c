@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553644350 source:c:\users\abdel\desktop\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553688043 source:c:\users\abdel\desktop\heap1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553812084 source:c:\users\abdel\desktop\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1555279095 source:c:\users\abdel\desktop\data sructures ii\ass 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
